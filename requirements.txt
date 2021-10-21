@@ -3,5 +3,5 @@ python-dotenv
 youtube-search-python
 tgcrypto
 git+https://github.com/pyrogram/pyrogram@master
-yt_dlp
+youtube-dl
 pafy
